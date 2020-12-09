@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="location">Location</string>
+    <string name="official_title">Official Title</string>
+    <string name="official_details">Official Details</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="seperator">Seperator</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="powered_by">Powered by</string>
+    <string name="google_civic_information_api"><u>Google Civic Information API</u></string>
+    <string name="_2020_shashank_srikanth">2020, Shashank Srikanth</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="location_warning">No Data for Location</string>
+    <string name="office">Office</string>
+    <string name="name">Name</string>
+    <string name="party">Party</string>
+    <string name="official_image">Official image</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="official_party_image">Official party image</string>
+    <string name="facebook">facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="youtube">youtube</string>
+    <string name="email">Email</string>
+</resources>

@@ -2,7 +2,7 @@
 This is an Android app that, based on the user's location, will show the user's area's political representatives and information regarding these officials.
 
 ## Features
-1. Based on the user's location (after obtaining permission), the app will show the user's area's political officials.
+1. Based on the user's location (after obtaining permission), the app will show the user's area's political officials. The user can also look up a certain location for information regarding that location.
 2. Each political official's information (name, political party, image, address, phone, website, and social media handles) will be shown when the political official is clicked on.
 3. When the user clicks on the address, the user will be redirected to Google Maps with directions from the current location to the address.
 4. When the user clicks on the phone number, the user will be redirected to the phone app with the number pre-populated.
